@@ -3,7 +3,7 @@ I ama college student
 
 <table>
 <tr>
-<td valign="top"><img src="./WhatsApp Image 2026-07-26 at 11.33.32 AM.svg" width="370" alt="Asmit — ASCII portrait" /></td>
+<td valign="top"><img src="./" width="370" alt="Asmit — ASCII portrait" /></td>
 </tr>
 </table>
 
