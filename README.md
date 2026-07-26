@@ -22,6 +22,5 @@ I ama college student
 ![](https://github-contributor-stats.vercel.app/api?username=Asmitpal&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Asmitpal&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
