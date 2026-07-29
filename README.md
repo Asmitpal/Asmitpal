@@ -1,5 +1,5 @@
 # 💫 About Me:
-I ama college student
+I am a college student
 
 <table>
 <tr>
