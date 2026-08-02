@@ -8,13 +8,6 @@
 
 I'm Asmit Pal, an aspiring developer based in Bhubaneswar, passionate about crafting robust and scalable solutions. My journey in tech is driven by curiosity and a desire to build impactful applications. I'm keen on exploring new technologies, contributing to the developer community, and continuously enhancing my skill set. Currently, I'm diving deeper into backend architectures and cloud technologies to understand how complex systems are built and optimized.
 
-## 🎯 Current Focus
-
-- 🔭 Working on: **[A personal project exploring microservices architecture]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Containerization with Docker & Kubernetes** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source projects related to web development or system design**
-- 💬 Ask me about: **JavaScript, Python, or getting started with backend development** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **I enjoy solving puzzles and complex logic problems in my free time, often fueled by a good cup of coffee!** <!-- TODO: Add a fun fact -->
 
 ---
 
@@ -92,14 +85,6 @@ My toolkit is constantly evolving as I explore new horizons, but here are some o
 
 
 
-## 🎯 2024 Goals
-<!-- TODO: Update with your current year goals -->
-- 🚀 Contribute to 5+ open source projects
-- 📚 Deepen my knowledge in cloud services (AWS/Azure/GCP)
-- 🌟 Reach 50+ GitHub followers
-- 📝 Publish 3+ technical articles or blog posts
-
----
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -107,7 +92,7 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-pal-6278193a5/) <!-- TODO: Add your LinkedIn -->
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter -->
 
