@@ -95,7 +95,7 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 [![GitHub followers](https://img.shields.io/github/followers/Asmitpal?style=social)](https://github.com/Asmitpal)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/unknown_as_70?style=social)](https://x.com/unknown_as_70) <!-- TODO: Add your Twitter handle if applicable -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/unknown_as_70)](https://x.com/unknown_as_70) <!-- TODO: Add your Twitter handle if applicable -->
 
 </div>
 
