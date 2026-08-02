@@ -1,31 +1,136 @@
-# 💫 About Me:
-I am a college student
+# Hi there! 👾 I'm Asmit Pal
 
-<table>
-<tr>
-<td valign="top"><img src="./WhatsApp Image 2026-07-26 at 9.59.29 PM.svg" width="370" alt="Asmit — ASCII portrait" /></td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Backend+Enthusiast;Cloud+Explorer;Lifelong+Learner)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.asmit._.pal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-pal-6278193a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmitpal70@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Asmitpal&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+## 👋 About Me
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Asmitpal&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I'm Asmit Pal, an aspiring developer based in Bhubaneswar, passionate about crafting robust and scalable solutions. My journey in tech is driven by curiosity and a desire to build impactful applications. I'm keen on exploring new technologies, contributing to the developer community, and continuously enhancing my skill set. Currently, I'm diving deeper into backend architectures and cloud technologies to understand how complex systems are built and optimized.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asmitpal&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🎯 Current Focus
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- 🔭 Working on: **[A personal project exploring microservices architecture]** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Containerization with Docker & Kubernetes** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Open Source projects related to web development or system design**
+- 💬 Ask me about: **JavaScript, Python, or getting started with backend development** <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: **I enjoy solving puzzles and complex logic problems in my free time, often fueled by a good cup of coffee!** <!-- TODO: Add a fun fact -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asmitpal&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+---
+
+## 🛠️ Technology Arsenal
+
+My toolkit is constantly evolving as I explore new horizons, but here are some of the technologies I frequently work with or am actively learning:
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- TODO: Add/remove languages based on your actual skills -->
+
+### 🚀 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<!-- TODO: Add your actual frameworks -->
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- TODO: Add your cloud/devops tools -->
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- TODO: Add your databases -->
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asmitpal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmitpal&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asmitpal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3"/>
+</p>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asmitpal&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmitpal&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/Asmitpal" alt="Contribution Calendar" width="100%"/>
+
 
 ---
 
 
+
+## 🎯 2024 Goals
+<!-- TODO: Update with your current year goals -->
+- 🚀 Contribute to 5+ open source projects
+- 📚 Deepen my knowledge in cloud services (AWS/Azure/GCP)
+- 🌟 Reach 50+ GitHub followers
+- 📝 Publish 3+ technical articles or blog posts
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about technology!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio -->
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmitpal70@gmail.com)
+
+
+
+### 📱 Social Presence
+
+[![GitHub followers](https://img.shields.io/github/followers/Asmitpal?style=social)](https://github.com/Asmitpal)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle if applicable -->
+
+</div>
+
+---
+
+
+  ### 🚀 "Code is poetry, and every commit tells a story"
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer)](https://git.io/typing-svg)
